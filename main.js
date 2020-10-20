@@ -16,7 +16,7 @@ for(const file of commandFiles){
 
 
 client.on("ready", () => {
-    console.log("OutLand Bot is Online")
+    console.log("BotName Bot is Online")
 })
 
 
@@ -43,6 +43,6 @@ client.on('message', message =>{
        
 });
 
-client.login('NzU2MjM0MjcyNTY5OTUwMjc4.X2O4DA.acaMGUrYTUO0FSV_7BFQBQlJCEE');
+client.login('Put Token Here');
 
 
